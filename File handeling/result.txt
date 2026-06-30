@@ -1,0 +1,1 @@
+Lowest score: ('Leonard', 20)Median score: ('Penny', 50)Highest score: ('Sheldon', 100)

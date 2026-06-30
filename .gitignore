@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.zip
+*.rar
+.DS_Store
+data.csv
+# Large model/binary files
+*.h5
+*.pkl
+*.model
+*.bin
+*.pt
+*.pth
+*.onnx
+*.pb
+datasets/

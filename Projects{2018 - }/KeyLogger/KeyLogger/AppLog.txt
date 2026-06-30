@@ -1,0 +1,6 @@
+[0606.2019 15::53::45]
+Hook Started... Timer Started...
+
+[0606.2019 15::54::15]
+File creation was not succesful. KeyLog '[D][F][S][D][F][S][Left Alt][Tab][/Left Alt][Space][Space][Space][Space][Left Alt][Tab][/Left Alt][Left Alt][Tab][Tab][/Left Alt][T][A][S]'
+

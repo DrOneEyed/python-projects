@@ -1,0 +1,9 @@
+Q1) Get the difference between a given number and 12, if the number is greater than 12 return double the absolute difference
+Q2) Check whether a specified value is contained in the list
+Q3) Count the number of occurrences in a list
+Q4) Add two objects if both objects are an integer type
+Q5) Find the distance between two points
+Q6) Parse a string to Float or Integer
+
+
+Q) Print out a set containing all the colors from a list which are not present in second list

@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1559584197 source:d:\vinu\codes\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConst.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1557823602 d:\vinu\codes\keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1557820861 d:\vinu\codes\keylogger\keylogger\keyconst.h
+	<map>
+	<string>
+
+1559482973 d:\vinu\codes\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1559495155 d:\vinu\codes\keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"Helper.h"
+	"windows.h"
+	"Base64.h"
+
+1559494688 d:\vinu\codes\keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1559816619 d:\vinu\codes\keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"Helper.h"
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+
+1559584330 d:\vinu\codes\keylogger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"KeyConst.h"
+	"windows.h"
+	"SendMail.h"
+	"Timer.h"
+

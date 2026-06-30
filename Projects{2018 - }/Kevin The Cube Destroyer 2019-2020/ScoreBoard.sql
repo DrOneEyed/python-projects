@@ -1,0 +1,13 @@
+create table High_Score(Rank_ int,Name_ varchar(30) unique, Score int not null,primary key(Rank_)); 
+insert into High_Score values(1,'Gogeta',100000000);
+insert into High_Score values(2,'Ronin',99999000);
+insert into High_Score values(3,'Ninja',5000000);
+insert into High_Score values(4,'Fresh',4000050);
+insert into High_Score values(5,'VV',2990950);
+insert into High_Score values(6,'Beta',900950);
+insert into High_Score values(7,'Golu',850000);
+insert into High_Score values(8,'Police',600000);
+insert into High_Score values(9,'Batman',500000);
+insert into High_Score values(10,'Jiren',400950);
+#drop table High_Score;
+select * from High_Score;
